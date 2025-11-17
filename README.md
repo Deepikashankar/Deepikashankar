@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Deepikashankar
-- 👀 I’m passinate about Artificial Intelligence and Machine Learning...
-- 🌱 I’m currently learning B.tech information technology...
-- 📫 How to reach me  https://www.linkedin.com/in/deepika-s-it-942505221/...
+Hi, I'm Deepika 👋
+
+Pega Developer | React | Integration
+
+🔹 Experienced in Pega Constellation
+🔹 React & TypeScript development
+🔹 Java , SQL development
+🔹 Passionate about scalable, maintainable architecture
+
+📫 Connect with me on LinkedIn:
+🔗 https://www.linkedin.com/in/deepika-s-it-942505221/
 
 <!---
 Deepikashankar/Deepikashankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
