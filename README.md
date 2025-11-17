@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pega Developer with experience in building custom Constellation components and integrating React-based UI solutions. Skilled in frontend development, case data integration, and delivering scalable, user-focused applications.
+Pega Developer focused on system integration and intelligent automation. Experienced in implementing Constellation applications, case data orchestration, and leveraging machine learning-driven decisioning to deliver scalable enterprise solutions.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ Pega Developer with experience in building custom Constellation components and i
 ![](https://nirzak-streak-stats.vercel.app/?user=Deepikashankar&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepikashankar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
